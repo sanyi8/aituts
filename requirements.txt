@@ -1,4 +1,4 @@
-Gravity
-Numpy
-Pandas
-Sklearn
+gravity
+numpy
+pandas
+scikit-learn
