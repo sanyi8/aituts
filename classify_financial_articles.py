@@ -31,3 +31,6 @@ def process(inPath, outPath):
 
 # pass the function into gravity ai helper
 grav.wait_for_request(process)
+
+# issue with .py in gravityai
+# Check the version of scikit-learn that was used to create the pickled model by running !pip show scikit-learn in the environment where the model was trained.
